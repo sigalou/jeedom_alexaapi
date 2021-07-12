@@ -29,6 +29,6 @@
     "https": "^1.0.0",
     "querystring": "^0.2.1",
     "request": "^2.88.2",
-    "iobroker.alexa2": "^3.9.0"
+    "iobroker.alexa2": "^3.9.3"
   }
 }
